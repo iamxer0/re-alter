@@ -7,3 +7,10 @@
 	║                                                                                                          ║
 	╚══════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
+<!--
+	# Life’s just a game and lucky you, you're playing it with me.
+	# 💬 Website: re-alter.ru | 💬 Telegram: @re_alter | 💬 VK: @re_alter
+-->
+💬 Website: re-alter.ru | 💬 Telegram: @re_alter | 💬 VK: @re_alter
+
+<a href="https://vk.com/re_alter">VK</a> | <a href="https://www.linkedin.com/in/re-alter/">LinkedIn</a> | <a href="https://xakep.ru/author/re-alter/">Xakep Magazine</a> | <a href="https://packetstormsecurity.com/user/realter/">Packet Storm Security</a>
